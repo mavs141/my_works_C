@@ -1,0 +1,4 @@
+Hi，這隻程式主要是為了練習Winsock所做的。
+
+Server負責執行簡單的加減乘除運算，並將結果回傳給Client。
+同時Server利用Thread來處理多個使用者連線的問題
